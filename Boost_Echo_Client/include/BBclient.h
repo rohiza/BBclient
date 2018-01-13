@@ -1,0 +1,11 @@
+
+#ifndef BOOST_ECHO_CLIENT_BBCLIENT_H
+#define BOOST_ECHO_CLIENT_BBCLIENT_H
+
+
+class BBclient {
+
+};
+
+
+#endif //BOOST_ECHO_CLIENT_BBCLIENT_H
